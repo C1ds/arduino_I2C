@@ -44,6 +44,6 @@ void loop() {
     lcd.print("Piso alcanzado");
   } 
 
-  delay(3000);
-  pisoDestino = 6;
+  delay(3000); // Codigo Prueba
+  pisoDestino = 6; // Codigo Prueba
 }
